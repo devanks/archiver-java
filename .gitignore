@@ -16,3 +16,4 @@ out/
 
 # Secrets / Env files
 .env
+/.idea/
